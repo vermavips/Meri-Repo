@@ -7,4 +7,8 @@ ghee 1 to go
 
 
 
+<<<<<<< HEAD
 on the feature 1 branch
+=======
+on the feature 1 branch {FEATURE1}
+>>>>>>> feature1
